@@ -2,31 +2,31 @@
 
 ## 🔗 Project Links
 
-🔗 [Project 1 – Color Box](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE/project-1/)
+🔗 [Project 1 – Color Box](https://durgaprasad4289.github.io/js-dom-projects/project-1/)
 
 ----
 
-🔗 [Project 2 – BMI Calculator](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE/project-2/)
+🔗 [Project 2 – BMI Calculator](https://durgaprasad4289.github.io/js-dom-projects/project-2/)
 
 ----
 
-🔗 [Project 3 – Digital Clock](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE/project-3/)
+🔗 [Project 3 – Digital Clock](https://durgaprasad4289.github.io/js-dom-projects/project-3/)
 
 ----
 
-🔗 [Project 4 – Guess the Number](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE/project-4/)
+🔗 [Project 4 – Guess the Number](https://durgaprasad4289.github.io/js-dom-projects/project-4/)
 
 ----
 
-🔗 [Project 5 - Message Board](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE/project-5/)
+🔗 [Project 5 - Message Board](https://durgaprasad4289.github.io/js-dom-projects/project-5/)
 
 ----
 
-🔗[Project 6 - Fetching Data from Local File](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE//project-6/)
+🔗[Project 6 - Fetching Data from Local File](https://durgaprasad4289.github.io/js-dom-projects/project-6/)
 
 ----
 
-🔗[Project 7 - Fetching Data from pokeAPI](https://durgaprasad4289.github.io/JS-ES6-DOM-PRACTICE//project-7/)
+🔗[Project 7 - Fetching Data from pokeAPI](https://durgaprasad4289.github.io/js-dom-projects/project-7/)
 
 ----
 ## 📌 DOM in JavaScript (Document Object Model)
